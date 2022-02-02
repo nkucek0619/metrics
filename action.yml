@@ -1092,6 +1092,7 @@ inputs:
 # ====================================================================================
 # Action metadata
 name: Metrics embed
+uses: lowlighter/metrics@v3.18
 author: lowlighter
 description: An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account!
 branding:
